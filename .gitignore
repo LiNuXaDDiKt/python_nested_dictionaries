@@ -1,0 +1,10 @@
+*.pyc
+/nested_dictionaries.egg-info/
+/build/
+/.tox/
+/dist/
+/tmp/
+/.cache/
+/.eggs/
+/.pytest_cache/
+
